@@ -2,7 +2,7 @@
 
 ## Group `<group number>`
 
-- `<Colin de Roode>` | `<3927679>` | `@<Github EpicurusdR>`
+- `<Colin Antonius de Roode>` | `<3927679>` | `@<Github EpicurusdR>`
 - `<Thijs de Rooij>` | `<3977188>` | `@<GitHub thoins>`
 - `<Timo Koenjer>` | `<3942252>` | `@<GitHub Timokoenjer-create>`
 - `<student name>` | `<student ID>` | `@<GitHub username>`
