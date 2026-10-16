@@ -4,7 +4,7 @@
 
 - `<Colin de Roode>` | `<3927679>` | `@<Github EpicurusdR>`
 - `<Thijs de Rooij>` | `<3977188>` | `@<GitHub thoins>`
-- `<student name>` | `<student ID>` | `@<GitHub username>`
+- `<Timo Koenjer>` | `<3942252>` | `@<GitHub Timokoenjer-create>`
 - `<student name>` | `<student ID>` | `@<GitHub username>`
 
 Adjust the number of lines to your group size.
