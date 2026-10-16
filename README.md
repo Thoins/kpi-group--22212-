@@ -2,8 +2,8 @@
 
 ## Group `<group number>`
 
-- `<Colin de Roode>` | `<3927679>` | `@<EpicurusdR>`
-- `<student name>` | `<student ID>` | `@<GitHub username>`
+- `<Colin de Roode>` | `<3927679>` | `@<Github EpicurusdR>`
+- `<Thijs de Rooij>` | `<3977188>` | `@<GitHub thoins>`
 - `<student name>` | `<student ID>` | `@<GitHub username>`
 - `<student name>` | `<student ID>` | `@<GitHub username>`
 
